@@ -1,0 +1,90 @@
+*{
+    /* text-decoration: none; */
+    list-style-type: none;
+}
+.logo-image {
+    text-align: center;
+
+}
+
+.search-tag {
+    text-align: center;
+    padding: 0 ;
+}
+
+.search-bar, .search-btns, .search-tag {
+background-color: rgb(245, 243, 243);
+text-align: justify;
+position: relative;
+margin: auto;
+width: 90%;
+text-align: center;
+
+}
+
+.search-input {
+  width: 300px;
+  padding: 0 0 0 0;
+    
+}
+
+.left-box {
+    background-color: #7EE5DA;
+    margin-left: 5%;
+    height: 76px;
+    width: 33%;
+    font-size:medium ;
+    
+        
+}
+
+.mid-box {
+    background-color: #70ccc2;
+    width: 19%;
+    height: 76px;
+    margin-right: 1px;
+    margin-left: 1px;
+    
+}
+
+.right-box {
+    background-color: #62b3aa;
+    width: 38%;
+    height: 76px;
+    margin-right: 2;
+    
+}
+
+ul {
+    float: left;
+    padding: 0px;
+    margin-top: 1px;
+    height: 76px;
+    text-align: center;
+    font-size: small;
+    justify-content: center;
+}
+
+.boxes {
+    /* text-align: center;
+    justify-content: center; */
+   
+}
+
+.clear {
+    clear:left;
+
+}
+
+footer {
+text-align: center;
+}
+
+.subscribe-btn, .mail-input, .right-box {
+    padding:0px;
+}
+p{
+    
+    padding: 0px;
+    margin: 0;
+}
